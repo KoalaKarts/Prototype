@@ -1,0 +1,41 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX TITAN (ID=0x1005)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Koala Karts\Koala Karts_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Koala Karts\Koala Karts_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Koala Karts\Koala Karts_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Koala Karts\Koala Karts_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Koala Karts\Koala Karts_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Koala Karts\Koala Karts_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Koala Karts\Koala Karts_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\Koala Karts\Koala Karts_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Koala Karts\Koala Karts_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Koala Karts\Koala Karts_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The tree Palm must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+UnloadTime: 0.352838 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2986.
+Total: 1.154185 ms (FindLiveObjects: 0.066998 ms CreateObjectMapping: 0.023112 ms MarkObjects: 0.129023 ms  DeleteObjects: 0.402282 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 3.793745 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 326.
+Total: 2.049740 ms (FindLiveObjects: 0.014335 ms CreateObjectMapping: 0.009947 ms MarkObjects: 0.071386 ms  DeleteObjects: 1.402869 ms)
+
